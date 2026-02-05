@@ -1,6 +1,6 @@
 # Greg Heerkens
 
-**Developer | Writer | Maker | Gamer | Tinkerer | Generalist | Farmer of weird foods**
+**Developer | Writer | Maker | Gamer | Tinkerer | Generalist | Grower of weird foods**
 
 Rochester, NY | [gregheerkens.com](https://gregheerkens.com) | greg.heerkens@gmail.com
 

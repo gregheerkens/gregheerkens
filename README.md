@@ -27,6 +27,11 @@ AI-powered writing assistant with voice retention and uncanny prediction. A PWA 
 
 **Tech:** React, TypeScript, Redux Toolkit, Vite
 
+### 🎯 [Dispatch](https://github.com/gregheerkens/dispatch)
+A personal command center built on an Obsidian vault and a multi-agent Claude backend. Six specialized lane officers (Jobs, Build, Learn, Home, Write, Self) run parallel standups, maintain private memory, and synthesize cross-lane priorities through a Dispatch coordinator. Designed for people managing too many things at once.
+
+**Tech:** Python, FastAPI, Anthropic API, Obsidian
+
 ### 📓 [Artifakts](https://github.com/gregheerkens/artifakts)
 A local-first, multimodal journaling witness for people who struggle with journaling, or are afflicted with memory disorders. Uses Socratic questioning to help the journaler reflect without giving advice. The guide simply asks neutral, curious questions. 
 All data stays on your device, and entries are linked to similar tags within the journal for pattern recognition and cross-reference.

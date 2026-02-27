@@ -28,7 +28,7 @@ AI-powered writing assistant with voice retention and uncanny prediction. A PWA 
 **Tech:** React, TypeScript, Redux Toolkit, Vite
 
 ### 🎯 [Dispatch](https://github.com/gregheerkens/dispatch)
-A personal command center built on an Obsidian vault and a multi-agent Claude backend. Six specialized lane officers (Jobs, Build, Learn, Home, Write, Self) run parallel standups, maintain private memory, and synthesize cross-lane priorities through a Dispatch coordinator. Designed for people managing too many things at once.
+A personal command center built on an Obsidian vault and a multi-agent Claude backend. Six specialized lane officers (Jobs, Build, Learn, Home, Write, Self) and a finance officer run parallel standups, maintain private memory, and synthesize cross-lane priorities through a Dispatch coordinator. Designed for people managing too many things at once.
 
 **Tech:** Python, FastAPI, Anthropic API, Obsidian
 

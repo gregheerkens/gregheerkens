@@ -6,7 +6,7 @@ Rochester, NY | [gregheerkens.com](https://gregheerkens.com) | greg.heerkens@gma
 
 ---
 
-I build tools that help people think, remember, create, and make. My projects sit at the intersection of AI-assisted workflows, maker culture, reading and literature, and self-directed learning.
+I build tools that help people think, remember, create, and make. My projects sit at the intersection of AI-assisted workflows, maker culture, reading and literature, and self-directed learning. I create apps to aid and manage executive and memory differences for neurodivergence.
 
 ## Current Projects
 
